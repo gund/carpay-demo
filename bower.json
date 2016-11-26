@@ -1,0 +1,21 @@
+{
+  "name": "gas-station-hack",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Alex Malkevich <malkevich.alex@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webcamjs": "^1.0.16"
+  }
+}
